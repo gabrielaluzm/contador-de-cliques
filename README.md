@@ -25,12 +25,13 @@ A cada clique, uma nova frase engraçada aparece, o botão muda de cor, e há um
 
 ## 🔗 Acesse o projeto:
 
-👉 [https://gabrielaluzm.github.io/contador-de-cliques](https://gabrielaluzm.github.io/contador-de-cliques)
+👉 https://contador-de-cliques-seven.vercel.app/
 
 ---
 
 ## ✨ Preview:
 
-<img src="https://via.placeholder.com/600x300.png?text=Adicione+um+print+do+seu+projeto+aqui" alt="Preview do contador de cliques" />
+<img width="670" height="421" alt="image" src="https://github.com/user-attachments/assets/cb9c54ee-83f2-4320-9a1f-eeebafb94bca" />
+
 
 
